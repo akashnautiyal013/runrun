@@ -1,0 +1,19 @@
+{
+  "name": "runrun",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.0",
+    "react-native-background-geolocation": "^0.5.1",
+    "react-native-device-info": "^0.9.3",
+    "react-native-drawer": "^2.0.0",
+    "react-native-mapbox-gl": "^4.1.0",
+    "react-native-sqlite-storage": "^2.1.5",
+    "react-native-swiper": "^1.4.3",
+    "react-native-vector-icons": "^1.3.4"
+  }
+}
